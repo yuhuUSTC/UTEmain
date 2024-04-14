@@ -38,7 +38,7 @@ wget -O models/ldm/stable-diffusion-v1/model.ckpt https://huggingface.co/CompVis
 
 ## Results
 Object Replace, Action Edit, Fader Control, Style Transfer, and Semantic Directions.
-![](./data/results.png)
+![](./data/result.png)
 
 ## Parent Repository
 This code is adopted from <a href="">https://github.com/CompVis/stable-diffusion</a> and <a href="">https://github.com/UCSB-NLP-Chang/DiffusionDisentanglement</a>.
