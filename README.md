@@ -1,6 +1,5 @@
-# UTEmain
-Uncovering the Text Embedding in Text-to-Image Diffusion Models
-### [Project Page]([https://wuqiuche.github.io/DiffusionDisentanglement-project-page/](https://yuhuustc.github.io/UTE/))
+# Uncovering the Text Embedding in Text-to-Image Diffusion Models
+### [Project Page](https://yuhuustc.github.io/UTE/)
 
 
 This is the official implementation of the paper "Uncovering the Text Embedding in Text-to-Image Diffusion Models".
@@ -24,10 +23,10 @@ wget -O models/ldm/stable-diffusion-v1/model.ckpt https://huggingface.co/CompVis
 
 ## Methods
 # Controllable Image Editing via Text Embedding Manipulation.
-![](./assets/pipeline1.png)
+![](./data/pipeline1.png)
 
 # Semantic Directions in SVD of Text Embedding.
-![](./assets/pipeline2.png)
+![](./data/pipeline2.png)
 
 
 ## Demo
@@ -40,7 +39,7 @@ wget -O models/ldm/stable-diffusion-v1/model.ckpt https://huggingface.co/CompVis
 ## Results
 Object Replace, Action Edit, Fader Control, Style Transfer, and Semantic Directions.
 
-![](./assets/results.png)
+![](./data/results.png)
 
 ## Parent Repository
 This code is adopted from <a href="">https://github.com/CompVis/stable-diffusion</a> and <a href="">https://github.com/UCSB-NLP-Chang/DiffusionDisentanglement</a>.
