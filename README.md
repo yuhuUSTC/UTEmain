@@ -38,7 +38,6 @@ wget -O models/ldm/stable-diffusion-v1/model.ckpt https://huggingface.co/CompVis
 
 ## Results
 Object Replace, Action Edit, Fader Control, Style Transfer, and Semantic Directions.
-
 ![](./data/results.png)
 
 ## Parent Repository
