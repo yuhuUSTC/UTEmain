@@ -29,9 +29,14 @@ wget -O models/ldm/stable-diffusion-v1/model.ckpt https://huggingface.co/CompVis
 ![](./data/pipeline2.png)
 
 
-## Demo
+## Diverse operations on the text embedding via changing --mode
 ```bash
-/bin/bash disentangling.sh
+/bin/bash edit_all.sh
+```
+
+## Codes for swap editing on the generated mageNet-R-TI2I dataset.
+```bash
+/bin/bash edit_swap.sh
 ```
 
 
