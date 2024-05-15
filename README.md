@@ -39,6 +39,8 @@ wget -O models/ldm/stable-diffusion-v1/model.ckpt https://huggingface.co/CompVis
 /bin/bash edit_swap.sh
 ```
 
+### [Editing samples on the mageNet-R-TI2I dataset.]([https://yuhuustc.github.io/UTE/](https://drive.google.com/drive/folders/1kFQDcPLX7gb9EAFcikVpXfn65vaY5iZx?usp=drive_link))
+
 
 
 ## Results
