@@ -39,12 +39,6 @@ def load_model_from_config(config, ckpt, verbose=False):
     return model
 
 
-# def PCA(condition, n_components):
-#     pca = PCA(n_components=n_components)
-#     condition = condition[0,:,:].cpu().numpy()
-#     condition = pca.fit_transform(condition)
-#     condition = torch.tensor(condition).cuda().unsqueeze(0)
-#     return condition
 
 def PCAright(condition, index):
     condition = condition[0,:,:].cpu().numpy()
